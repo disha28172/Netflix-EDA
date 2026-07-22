@@ -35,10 +35,10 @@ This project explores the Netflix Movies and TV Shows dataset using Exploratory 
 
 ## Files
 
--Netflix_EDA.ipynb      # Jupyter Notebook
--README.md              # Project documentation
--netflix_titles.csv     # Dataset
--Images                 #images of visualization
+- Netflix_EDA.ipynb      # Jupyter Notebook
+- README.md              # Project documentation
+- netflix_titles.csv     # Dataset
+- Images                 #images of visualization
 
 
 ## Author
